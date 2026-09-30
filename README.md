@@ -16,23 +16,25 @@ I like working where data, fieldwork and technology meet.
 
 ## Selected work
 
-### 01 / GIS + Research
+### GIS + Research
 
-Maps, spatial analysis and environmental research.
+Maps, spatial analysis and environmental research around climate,
+disasters and environmental change.
 
-`ArcGIS` `QGIS` `Google Earth Engine` `Remote Sensing`
+### Climate + Environment
 
-### 02 / Climate + Environment
+Projects around climate action, waste, ecological systems and
+community programmes.
 
-Projects around climate action, waste, ecological systems and community programmes.
+### Digital projects
 
-`Climate` `Environment` `Zero Waste` `Programme Design`
+Websites, CMS projects, digital archives and other things I build.
 
-### 03 / Digital projects
+---
 
-Websites, CMS projects, digital archives and things I build.
-
-`React` `TypeScript` `Supabase` `GitHub`
+<p align="center">
+  <img src="./skills.svg" width="100%" alt="Areas and tools I work with">
+</p>
 
 ---
 
@@ -44,23 +46,7 @@ Website and digital experience for a Himalayan homestay.
 [Rahul Gautam](https://github.com/shreyagurung/rahul-gautam-lets-build-v3)  
 Digital portfolio and website project.
 
-More projects are being added as I organise my work.
-
----
-
-## Tools I use
-
-GIS  
-`ArcGIS` `QGIS` `Google Earth Engine`
-
-Data  
-`Python` `R` `Excel`
-
-Web  
-`HTML` `CSS` `JavaScript` `React` `TypeScript`
-
-Digital  
-`Git` `GitHub` `Supabase` `Notion` `Canva`
+More projects will find their way here as I organise my work.
 
 ---
 
@@ -71,15 +57,6 @@ B.Tech Information Technology, Christ University
 
 My work has moved between environmental research, climate programmes,
 community work, fundraising, communication and technology.
-
----
-
-## Currently exploring
-
-GIS and environmental data  
-AI-assisted research and workflows  
-Digital archives and websites  
-Climate and disaster resilience
 
 ---
 
