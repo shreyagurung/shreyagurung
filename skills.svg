@@ -1,0 +1,27 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="430" rx="20" fill="#17191C"/>
+
+  <rect x="24" y="24" width="552" height="178" rx="16" fill="#E85B2A"/>
+  <text x="52" y="68" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">GIS</text>
+  <text x="52" y="105" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Maps + spatial analysis</text>
+  <text x="52" y="142" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="15">ArcGIS  ·  QGIS  ·  Google Earth Engine</text>
+  <text x="52" y="171" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="13" opacity="0.7">remote sensing · environmental mapping</text>
+
+  <rect x="624" y="24" width="552" height="178" rx="16" fill="#A9C6CF"/>
+  <text x="652" y="68" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">DATA</text>
+  <text x="652" y="105" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Analysis + research</text>
+  <text x="652" y="142" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="15">Python  ·  R  ·  Excel</text>
+  <text x="652" y="171" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="13" opacity="0.7">environmental data · indicators · research</text>
+
+  <rect x="24" y="228" width="552" height="178" rx="16" fill="#C9D8C1"/>
+  <text x="52" y="272" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">WEB</text>
+  <text x="52" y="309" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Things I build</text>
+  <text x="52" y="346" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="15">React  ·  TypeScript  ·  Supabase</text>
+  <text x="52" y="375" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="13" opacity="0.7">websites · CMS · digital archives</text>
+
+  <rect x="624" y="228" width="552" height="178" rx="16" fill="#C7B8D8"/>
+  <text x="652" y="272" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2">WORK</text>
+  <text x="652" y="309" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Programmes + communication</text>
+  <text x="652" y="346" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="15">Climate  ·  Disaster management  ·  Fundraising</text>
+  <text x="652" y="375" fill="#17191C" font-family="Arial, Helvetica, sans-serif" font-size="13" opacity="0.7">programme design · writing · storytelling</text>
+</svg>
