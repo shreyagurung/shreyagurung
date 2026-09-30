@@ -1,0 +1,12 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" rx="18" fill="#17191C"/>
+  <path d="M72 218H1128" stroke="#A9C6CF" stroke-width="2" opacity="0.35"/>
+  <path d="M72 218H430" stroke="#E85B2A" stroke-width="4"/>
+  <circle cx="1080" cy="72" r="10" fill="#E85B2A"/>
+  <circle cx="1112" cy="72" r="6" fill="#A9C6CF"/>
+  <circle cx="1136" cy="72" r="4" fill="#E85B2A" opacity="0.7"/>
+  <text x="72" y="108" fill="#F2F1EC" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="1">SHREYA GURUNG</text>
+  <text x="74" y="151" fill="#A9C6CF" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">RESEARCH / GIS / CLIMATE / DIGITAL</text>
+  <text x="74" y="190" fill="#F2F1EC" font-family="Arial, Helvetica, sans-serif" font-size="15" opacity="0.7">maps · data · programmes · things I build</text>
+  <text x="1128" y="252" text-anchor="end" fill="#F2F1EC" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" opacity="0.45">FIELD NOTES / 01</text>
+</svg>
