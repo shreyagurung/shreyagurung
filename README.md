@@ -1,58 +1,42 @@
-<h1 align="left">Shreya Gurung</h1>
-
-<p align="left">
-Environmental research · GIS · Climate · Digital projects
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Shreya Gurung">
 </p>
 
-<p align="left">
-I work across environmental research, climate programmes, geospatial analysis,
-fundraising, communications and digital projects.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreya-gurung-b42664132/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:shreyagurung07@gmail.com">Email</a>
 </p>
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shreya-gurung-b42664132/">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:shreyagurung07@gmail.com">Email</a>
-</p>
+I work across climate, environmental research, GIS and digital projects.
+
+I like working where data, fieldwork and technology meet.
 
 ---
 
-## 01 / Selected work
+## Selected work
 
-### GIS & Research
+### 01 / GIS + Research
 
-Research, mapping and data projects around climate, disasters and environmental change.
+Maps, spatial analysis and environmental research.
 
-`GIS` `Remote Sensing` `Research` `Data Analysis`
+`ArcGIS` `QGIS` `Google Earth Engine` `Remote Sensing`
 
-### Climate & Environment
+### 02 / Climate + Environment
 
-Projects around climate action, waste, ecological systems and community-led environmental work.
+Projects around climate action, waste, ecological systems and community programmes.
 
 `Climate` `Environment` `Zero Waste` `Programme Design`
 
-### Digital Projects
+### 03 / Digital projects
 
-Websites, digital archives, CMS projects and other things I have built.
+Websites, CMS projects, digital archives and things I build.
 
 `React` `TypeScript` `Supabase` `GitHub`
 
 ---
 
-## 02 / Things I work with
-
-| Area | Tools |
-|---|---|
-| GIS | ArcGIS · QGIS · Google Earth Engine |
-| Data | Python · R · Excel |
-| Web | HTML · CSS · JavaScript · React · TypeScript |
-| Research | Environmental research · Disaster management · Data analysis |
-| Digital | Git · GitHub · Supabase · Notion · Canva |
-| Communication | Writing · Storytelling · Campaigns · Presentations |
-
----
-
-## 03 / A few things I've worked on
+## A few things I've built
 
 [Daara Pari](https://github.com/shreyagurung/daara-pari)  
 Website and digital experience for a Himalayan homestay.
@@ -60,21 +44,37 @@ Website and digital experience for a Himalayan homestay.
 [Rahul Gautam](https://github.com/shreyagurung/rahul-gautam-lets-build-v3)  
 Digital portfolio and website project.
 
-More research, GIS and environmental projects coming together here.
+More projects are being added as I organise my work.
 
 ---
 
-## 04 / Background
+## Tools I use
+
+GIS  
+`ArcGIS` `QGIS` `Google Earth Engine`
+
+Data  
+`Python` `R` `Excel`
+
+Web  
+`HTML` `CSS` `JavaScript` `React` `TypeScript`
+
+Digital  
+`Git` `GitHub` `Supabase` `Notion` `Canva`
+
+---
+
+## Background
 
 MSc Disaster Management, Tata Institute of Social Sciences  
 B.Tech Information Technology, Christ University
 
-My work sits somewhere between environmental research, technology,
-community programmes and communication.
+My work has moved between environmental research, climate programmes,
+community work, fundraising, communication and technology.
 
 ---
 
-## 05 / Currently exploring
+## Currently exploring
 
 GIS and environmental data  
 AI-assisted research and workflows  
@@ -84,5 +84,5 @@ Climate and disaster resilience
 ---
 
 <p align="center">
-<sub>Research · Make · Learn · Repeat</sub>
+  <sub>research · maps · data · making</sub>
 </p>
