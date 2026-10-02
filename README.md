@@ -38,7 +38,7 @@ Websites, CMS projects, digital archives and other things I build.
 
 ---
 
-## A few things I've built
+## A few things I've collaborated on
 
 [Daara Pari](https://github.com/shreyagurung/daara-pari)  
 Website and digital experience for a Himalayan homestay.
